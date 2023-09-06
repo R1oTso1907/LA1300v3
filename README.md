@@ -3,17 +3,15 @@
 Ensar Yildirim
 
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 
 | Datum | Version | Zusammenfassung                                              |
 
 | ----- | ------- | ------------------------------------------------------------ |
 
-|16.08.2023       | 0.0.1   | Ich habe mich wieder mit c# auseinandergesetzt. ist dieser Satz grammatikalisch korrekt.
+|16.08.2023       | 0.0.1   | Ich habe meine Kenntnisse in C# wieder aufgefrischt und mich erneut damit beschäftigt.|
 
  |
 
