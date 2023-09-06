@@ -2,10 +2,14 @@
 # Projekt-Dokumentation
 Ensar Yildirim
 
-| First Header  | Second Header | selam|
-| ------------- | ------------- |--------|
-| Content Cell  | Content Cell  |    |
-| Content Cell  | Content Cell  |      |
+| Datum | Version | Zusammenfassung                                              |
+
+| ----- | ------- | ------------------------------------------------------------ |
+
+|16.08.2023       | 0.0.1   | Ich habe meine Kenntnisse in C# wieder aufgefrischt und mich erneut damit beschäftigt.|
+|       | ...     |                                                              |
+
+|       | 1.0.0   |                                                              |
 
 
 
