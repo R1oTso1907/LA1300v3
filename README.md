@@ -2,15 +2,11 @@
 # Projekt-Dokumentation
 Ensar Yildirim
 
-| Datum | Version | Zusammenfassung                                              |
-
-| ----- | ------- | ------------------------------------------------------------ |
-
-|16.08.2023       | 0.0.1   | Ich habe meine Kenntnisse in C# wieder aufgefrischt und mich erneut damit beschäftigt.|
-|       | ...     |                                                              |
-
-|       | 1.0.0   |                                                              |
-
+| Datum  | Version |Zusammenfassung|
+| ------------- | ------------- |-----|
+| 16.08.2023 | |   Ich habe meine Kenntnisse in C# wieder aufgefrischt und mich erneut damit beschäftigt.|
+| 23.08.2023 | 0.0.1 |Ich habe damit begonnen, zu codieren.|
+|30.08.2023|1.0.0| Die Programmierung wurde abgeschlossen.|
 
 
 ## 1 Informieren
@@ -19,8 +15,8 @@ Ensar Yildirim
 ### 1.1 Ihr Projekt
 
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-"Number Guessing" ist ein spannendes Projekt, bei dem du versuchst, die geheimnisvolle Zahl durch kluge Vermutungen zu enthüllen.
+
+"Number Guessing" ist ein spannendes Projekt, bei dem man versucht, die geheimnisvolle Zahl durch kluge Vermutungen zu enthüllen.
 
 ### 1.2 User Stories
 Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
