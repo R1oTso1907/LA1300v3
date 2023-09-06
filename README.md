@@ -2,18 +2,10 @@
 # Projekt-Dokumentation
 Ensar Yildirim
 
-| Datum | Version | Zusammenfassung                                              |
-
-| ----- | ------- | ------------------------------------------------------------ |
-
-|16.08.2023       | 0.0.1   | Ich habe meine Kenntnisse in C# wieder aufgefrischt und mich erneut damit beschäftigt.|
-|       | ...     |                                                              |
-
-|       | 1.0.0   |                                                              |
-
-
-
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
