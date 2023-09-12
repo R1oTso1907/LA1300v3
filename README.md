@@ -53,14 +53,14 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 
 | AP-№ | Frist |Zuständig|Beschreibung|geplante Zeit |
 | -------| ----- |---------| -----------| ------------ |
-| 1.A    | 23.08.2023|Ensar Yildirim|   d        |    d         |
-| 2.A| 23.08.2023|      Ensar Yildirim   |        d    |   d           |
-| 3.A| 23.08.2023|       Ensar Yildirim  |       d     |    d          |
-| 4.A| 23.08.2023|      Ensar Yildirim   |   d         |    d          |
-| 5.A| 23.08.2023|      Ensar Yildirim   |        d    |   d           |
-| 6.A| 23.08.2023|       Ensar Yildirim  |       d     |    d          |
+| 1.A    | 23.08.2023|Ensar Yildirim|  zufällige Zahl generieren|    15 min     |
+| 2.A| 23.08.2023|      Ensar Yildirim   |Zahl eingeben können|   15 min           |
+| 3.A| 23.08.2023|       Ensar Yildirim  |   genauere Informationen zu den geratenen Zahlen (Wie weit es entfernt ist)|    55 min|
+| 4.A| 23.08.2023|      Ensar Yildirim   |    überprüfen ob Zahl richtig ist      |25 min|
+| 5.A| 23.08.2023|      Ensar Yildirim   |     Versuche zählen|   20 min         |
+| 6.A| 23.08.2023|       Ensar Yildirim  |      Fehler abfangen|    25 min       |
 
-Total: 
+Total: 145 min
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -70,9 +70,8 @@ Total:
 
 
 ## 3 Entscheiden
+Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderungen umzusetzen.
 
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 
 ## 4 Realisieren
