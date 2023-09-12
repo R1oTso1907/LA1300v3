@@ -51,20 +51,13 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 ## 2 Planen
 
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+|  AP-№  | Frist |Zuständig|Beschreibung|geplante Zeit |
+|
+| -------| ----- |---------| -----------| ------------ |
+| Content| Conten|         |            |              |
+| Content| Conten|         |            |              |
+| Content| Conten|         |            |              |
 
-| ---- | ----- | --------- | ------------ | ------------- |
-
-| 1.A  |16.8.2323|Ensar Yildirim| Ich habe mich wieder mit c# auseinandersetzen | 2 lektionen|
-
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-
-| 1.C  | 16.8.2023|Ensar Yildirim |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
-| 1.B  | 16.8.2023|   Ensar Yildirim        |Ich habe mit dem Programmieren angefangen |3 Lektionen |
 
 Total: 
 
