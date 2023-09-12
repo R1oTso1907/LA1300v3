@@ -37,8 +37,8 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 ### 1.3 Testfälle
 
 
-| TC-№  | Ausgangslage |Eingabe|Erwartete Ausgabe|
-| ------------- | ------------- |----------------|
+| TC-№  |     Ausgangslage |Eingabe    |Erwartete Ausgabe      |
+| -------------     | -------------     |----------------    |
 | 1.1  | Zahl eingeben | 34        | Die eingegebene Zahl ist zu hoch/niedrig  |
 | 1.2  | Zahl eingeben | e         |Falsche eingabe. Bitte geben sie eine Zahl zwischen 1 und 100 ein              |
 
