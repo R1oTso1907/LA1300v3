@@ -39,7 +39,7 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 | TC-№  | Ausgangslage |Eingabe |  Erwartete Ausgabe     |                   
 | ------| ------------- |-------|  -----------------     |
 | 1.1| Zahl eingeben  |  34     | Die eingegebene Zahl ist zu hoch/niedrig                       |            
-| 1.2| Zahl eingeben  |e       |  Falsche Eingabe. Bitte geben sie eine Zahl zwischen 1 und 100 ein            |
+| 1.2| buchstabe eingegeben  |e       |  Falsche Eingabe. Bitte geben sie eine Zahl zwischen 1 und 100 ein            |
 | 1.3| Zahl eingeben  |  37     | Anzahl Versuche                     |            
 | 2.1| Es wirde korrekt geraten  |64       | Das ist die korrekte Zahl            |
 
@@ -96,10 +96,13 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 ### 5.1 Testprotokoll
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  TC-№	  | Datum  |Resultat|
+| ------------- | ------------- | ---------------|
+| 1.1  |30.08.2023   |   OK             |
+| 1.2| 30.08.2023   |    OK            |
+| 1.3  | 30.08.2023   |  OK              |
+| 2.1|30.08.2023   |     OK           |
+
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
