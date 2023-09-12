@@ -79,8 +79,12 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 
 | AP-№	  | Datum |Zuständig|geplante Zeit|tatsächliche Zeit|
 | --------| ----- |-------- |------------ |---------------- |
-| Content | Conten| Ensar Yildirim        | 15 min          |  10 min               |
-| Content | Conte | Ensar Yildirim        |             |                 |
+| 1.A | 23.08.2023| Ensar Yildirim        | 15 min          |  10 min               |
+| 2.A | 23.08.2023 | Ensar Yildirim        | 15 min           |   10 min             |
+| 3.A | 23.08.2023| Ensar Yildirim        | 55 min          |  70 min               |
+| 4.A | 23.08.2023 | Ensar Yildirim        | 25 min           |  20 min              |
+| 5.A | 23.08.2023| Ensar Yildirim        | 20 min          |  15 min               |
+| 6.A | 23.08.2023 | Ensar Yildirim        | 25 min           |  20 min              |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
