@@ -51,7 +51,7 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 ## 2 Planen
 
 
-|  AP-№  | Frist |Zuständig|Beschreibung|geplante Zeit |
+| AP-№ | Frist |Zuständig|Beschreibung|geplante Zeit |
 |
 | -------| ----- |---------| -----------| ------------ |
 | Content| Conten|      d   |   d         |    d          |
