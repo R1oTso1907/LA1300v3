@@ -21,13 +21,10 @@ Ensar Yildirim
 ### 1.2 User Stories
 Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-
-| ---- | --------------- | ---- | ---------------------------------- |
-
-| 1    |   Muss              |Funktional      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit  |
-
-| ...  |                 |      |                                    |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
