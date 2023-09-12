@@ -19,7 +19,6 @@ Ensar Yildirim
 "Number Guessing" ist ein spannendes Projekt, bei dem man versucht, die geheimnisvolle Zahl durch kluge Vermutungen zu enthüllen.
 
 ### 1.2 User Stories
-Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 
 | US-№          |Verbindlichkeit|    Typ  |Beschreibung       |
 | ------------- | ------------- |---------|-----------        |
@@ -31,7 +30,6 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 | 6| Muss  |Funktional|Als Spieler möchte ich auf Fehler hingewiesen werden, damit Fehleingaben vermieden werden.  |
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 
 ### 1.3 Testfälle
@@ -44,7 +42,6 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 | 2.1| Es wirde korrekt geraten  |64       | Das ist die korrekte Zahl            |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 
 
@@ -63,10 +60,6 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 Total: 145 min
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 
 ## 3 Entscheiden
@@ -87,7 +80,6 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 | 6.A | 23.08.2023 | Ensar Yildirim        | 25 min           |  20 min              |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 
 ## 5 Kontrollieren
