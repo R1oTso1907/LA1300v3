@@ -54,9 +54,9 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 |  AP-№  | Frist |Zuständig|Beschreibung|geplante Zeit |
 |
 | -------| ----- |---------| -----------| ------------ |
-| Content| Conten|         |            |              |
-| Content| Conten|         |            |              |
-| Content| Conten|         |            |              |
+| Content| Conten|      d   |   d         |    d          |
+| Content| Conten|      d   |        d    |   d           |
+| Content| Conten|       d  |       d     |    d          |
 
 
 Total: 
