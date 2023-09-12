@@ -40,7 +40,7 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 | ------| ------------- |-------|  -----------------     |
 | 1.1| Zahl eingeben  |  34     | Die eingegebene Zahl ist zu hoch/niedrig                       |            
 | 1.2| Zahl eingeben  |e       |  Falsche Eingabe. Bitte geben sie eine Zahl zwischen 1 und 100 ein            |
-| 1.3| Zahl eingeben  |  37     | Das ist die Korrekte Zahl                      |            
+| 1.3| Zahl eingeben  |  37     | Anzahl Versuche                     |            
 | 2.1| Es wirde korrekt geraten  |64       | Das ist die korrekte Zahl            |
 
 
