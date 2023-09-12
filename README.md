@@ -96,13 +96,10 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 ### 5.1 Testprotokoll
 
 
-| TC-№ | Datum | Resultat | Tester |
-
-| ---- | ----- | -------- | ------ |
-
-| 1.1  |       |          |        |
-
-| ...  |       |          |        |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
