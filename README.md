@@ -105,7 +105,7 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 
 
 
-Beim Testen habe ich keine Fehler gefunfen. Alles lief nach Plan.
+Beim Testen habe ich keine Fehler gefunden. Alles lief nach Plan.
 
 
 
