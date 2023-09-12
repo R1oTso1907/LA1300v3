@@ -79,7 +79,7 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 
 | AP-№	  | Datum |Zuständig|geplante Zeit|tatsächliche Zeit|
 | --------| ----- |-------- |------------ |---------------- |
-| Content | Conten| Ensar Yildirim        |             |                 |
+| Content | Conten| Ensar Yildirim        | 15 min          |  10 min               |
 | Content | Conte | Ensar Yildirim        |             |                 |
 
 
