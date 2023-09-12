@@ -23,8 +23,8 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 
 | US-№          |Verbindlichkeit|    Typ  |Beschreibung|
 | ------------- | ------------- |---------|----------- |
-| Content Cell  | Content Cell  |         |            |
-| Content Cell  | Content Cell  |         |            |
+| Content Cell  | Content Cell  |   ersf      |   re         |
+| Content Cell  | Content Cell  |   sd     |     sadf       |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
