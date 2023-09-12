@@ -77,13 +77,10 @@ Ich halte an meinem aktuellen Plan fest und werde mich bemühen, die Anforderung
 ## 4 Realisieren
 
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-
-| ---- | ----- | --------- | ------------- | ----------------- |
-
-| 1.A  |       |           |               |                   |
-
-| ...  |       |           |               |                   |
+| AP-№	  | Datum |Zuständig|geplante Zeit|tatsächliche Zeit|
+| --------| ----- |-------- |------------ |---------------- |
+| Content | Conten| Ensar Yildirim        |             |                 |
+| Content | Conte | Ensar Yildirim        |             |                 |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
