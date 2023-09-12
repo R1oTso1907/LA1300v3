@@ -23,13 +23,13 @@ Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit
 
 | US-№          |Verbindlichkeit|    Typ  |Beschreibung       |
 | ------------- | ------------- |---------|-----------        |
-|1   | Content Cell  |         |                   |
-| 2 | Content Cell  |         |                   |
-|3  | Content Cell  |         |                   |
-| 4 | Content Cell  |         |                   |
-|5  | Content Cell  |         |                   |
-| 6| Content Cell  |         |                   |
-|7  | Content Cell  |         |                   |
+|1   | Muss  |   funktional      |Als Spieler möchte ich eine Zahl haben, damit ich die erraten kann.  |
+| 2 | Muss  |   Funktional      |  Als Spieler möchte ich Zahlen eingeben, damit ich die generierte Zahl raten kann. |
+|3  | Muss  |   Funktional    | Als Spieler möchte ich genau wissen, wie weit ich von der Zahl entfernt bin, damit ich mehrmals raten kann, um dann die richtige Zahl zu erraten.|
+| 4 | Muss  |Funktional  | Als Spieler möchte ich eine Meldung erhalten, wenn ich die richtige Zahl errate, damit ich merke, dass ich richtig geraten habe.                  |
+|5  | Muss  |Funktional | Als Spieler möchte ich wissen, wie viele Versuche ich gebraucht habe, damit ich mich verbessern kann.   |
+| 6| Muss  |Funktional|Als Spieler möchte ich auf Fehler hingewiesen werden, damit Fehleingaben vermieden werden.  |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
